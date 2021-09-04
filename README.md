@@ -1,0 +1,2 @@
+# SEQuel-assembly-correcting-tool
+SEQuel is a tool for correcting errors (i.e., insertions, deletions, and substitutions) in contigs output from assembly. All credits to: Roy Ronen, Christina Boucher, Hamidreza Chitsaz, Pavel Pevzner, SEQuel: improving the accuracy of genome assemblies, Bioinformatics, Volume 28, Issue 12, 15 June 2012, Pages i188–i196, https://doi.org/10.1093/bioinformatics/bts219
